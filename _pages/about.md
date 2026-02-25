@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB), DEEP-SE Lab
+subtitle: <p> Politecnico di Milano </p>
+          <p> Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) </p>
+          <p> DEEP-SE Lab </p>
 profile:
   align: right
   image: prof_pic.jpg
@@ -24,4 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The Quantum Engineering and Machine Learning laboratory at DEIB is a team of engineers working on actionable and practical implementations of quantum software. Our goal is to ease the transition from theoretical and simulated quantum algorithms to real, dependable and efficient software exploiting the power offered by NISQ resources. We tackle this objective wth multiple research directions, such as: the development and refining of guidelines and patterns used to create software, efficient realization of simulation-only approaches on physical quantum hardware, and formulation of new algorithms.
+<p>The <em>Quantum Engineering and Machine Learning laboratory</em> at DEIB is a team of engineers working on actionable and practical implementations of quantum software. </p>
+<p>Our goal is to ease the transition from theoretical and simulated quantum algorithms to real, dependable and efficient software exploiting the power offered by NISQ resources. We tackle this objective wth multiple research directions, such as: the development and refining of guidelines and patterns used to create software, efficient realization of simulation-only approaches on physical quantum hardware, and formulation of new algorithms.</p>
