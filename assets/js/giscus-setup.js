@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "onionate/qeml",
+    "data-repo": "deib-polimi/qeml-website",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
