@@ -1,1 +1,3 @@
-Simone Reale is a third-year PhD. Student in Computer Science and Engineering. His research focus is the field of quantum optimization, with a specialization in quantum annealing. His paper <em>Quantum Graph Pursuit: Analysis of the Advantages and Challenges of a Quantum Dynamic Combinatorial Optimization Model from a Software Developer Perspective</em> won a Best Paper Award at IEEE International Conference on Quantum Software 2024.
+Simone Reale is a third-year Ph.D. Student in Computer Science and Engineering. His research focus is the field of quantum optimization, with a specialization in quantum annealing. His paper <em>Quantum Graph Pursuit: Analysis of the Advantages and Challenges of a Quantum Dynamic Combinatorial Optimization Model from a Software Developer Perspective</em> won a Best Paper Award at IEEE International Conference on Quantum Software 2024.
+
+
