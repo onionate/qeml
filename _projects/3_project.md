@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Practical Quantum Fisher Kernel
-description: Bringing quantum advantage in machine learning
-img: assets/img/qfk.png
+title: Quantum Graph Pusuit
+description: Dynamic combinatorial optimization with quantum annealers.
 importance: 2
 category: work
 ---
