@@ -22,4 +22,3 @@ combinations. The results are obtained after an analysis over three different da
 <div class="caption">
     A graph showing how many implementation with a specific entanglement topology outperformed were the best performing model according to different metrics.
 </div>
-{% endraw %}

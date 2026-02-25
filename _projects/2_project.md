@@ -20,5 +20,3 @@ category: work
     A graph showing the effective dimension of the QFK compared with standard approaches. A lower effective dimension is better as it signifies better generalization power.
 </div>
 
-
-{% endraw %}
