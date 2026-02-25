@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "Members of our group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/qeml/people/";
@@ -419,9 +419,9 @@ ninja.data = [{
           description: "Bringing quantum advantage in machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/qeml/projects/2_project/";
-            },},{id: "projects-practical-quantum-fisher-kernel",
-          title: 'Practical Quantum Fisher Kernel',
-          description: "Bringing quantum advantage in machine learning",
+            },},{id: "projects-quantum-graph-pusuit",
+          title: 'Quantum Graph Pusuit',
+          description: "Dynamic combinatorial optimization with quantum annealers.",
           section: "Projects",handler: () => {
               window.location.href = "/qeml/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
